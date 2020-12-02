@@ -11,3 +11,7 @@ A place to track readings and discussions from the Climate Change AI reading gro
 
 * 18-Nov-2020 <br>
 [Do deep features generalize from everyday objects to remote sensing and aerial scenes domains?](https://openaccess.thecvf.com/content_cvpr_workshops_2015/W13/papers/Penatti_Do_Deep_Features_2015_CVPR_paper.pdf) (2015) by Otávio A. B. Penatti, Keiller Nogueira, Jefersson A. dos Santos
+
+* 02-Dec-2020 <br>
+[Counting Cows: Tracking Illegal Cattle Ranching From High-Resolution Satellite Imagery](https://arxiv.org/abs/2011.07369) (2020) by Issam Laradji, Pau Rodriguez, Freddie Kalaitzis, David Vazquez, Ross Young, Ed Davey, Alexandre Lacoste
+
